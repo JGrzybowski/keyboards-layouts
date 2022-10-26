@@ -24,7 +24,7 @@
 #define MATRIX_ROWS 10 // Rows are doubled-up.
 #define MATRIX_COLS 6
 
-#define DIODE_DIRECTION ROW2COL
+#define DIODE_DIRECTION COL2ROW
 
 /* Disable action features. */
 #define NO_ACTION_MACRO    // Disable old-style macro handling.
